@@ -1,3 +1,6 @@
 # haku5hu
 //website
-<!--https://drive.google.com/file/d/1iiz1RgjFwKcHB7SGme81y6GFy0oPtfUE/view?usp=sharing--">
+# here I am just fucking with shit in a bash.
+# lets make some more comments.
+# I wonder what else I can do here...
+// what about some cool font? 
